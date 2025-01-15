@@ -2,7 +2,7 @@ Online Kitap Satış Platformu
 
 Proje Açıklaması
 
-Bu proje, bir online kitap satış platformu olarak geliştirilmiştir. Kullanıcılar kitapları arayabilir, sepete ekleyebilir ve sipariş verebilir. Yöneticiler ise kitap ve sipariş yönetimi yapabilir.
+Bu proje, bir online kitap satış platformu olarak geliştirilmiştir. Kullanıcılar kitapları arayabilir, sepete ekleyebilir ve sipariş verebilir.
 
 Özellikler
 
