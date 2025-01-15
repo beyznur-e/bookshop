@@ -26,21 +26,20 @@ Bu proje, bir online kitap satış platformu olarak geliştirilmiştir. Kullanı
 
 ### Bağımlılıkları yükleyin:
 
-```bash
 mvn clean install
 
-### Veritabanı bağlantı ayarlarını güncelleyin: `src/main/resources/application.properties`
-
-```properties
+### Veritabanı bağlantı ayarlarını güncelleyin: `src/main/resources/application.properties
+```
 spring.datasource.url=jdbc:postgresql://localhost:5432/bookshop
 spring.datasource.username=postgres
 spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
+```
 
 ### Uygulamayı çalıştırın:
-
-```bash
+```
 mvn spring-boot:run
+```
 
 ## Önemli API Endpointleri
 
