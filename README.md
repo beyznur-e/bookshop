@@ -47,10 +47,6 @@ Uygulamayı çalıştırın:
 
 mvn spring-boot:run
 
-Kullanım
-
-Swagger Arayüzü
-
 Önemli API Endpointleri
 
 Kullanıcı İşlemleri
